@@ -14,4 +14,4 @@ A simple task management application for learning Git and GitHub.
 Example:
 [HIGH][Work] Finish the project report
 
-Issue #3
+Issue `#3`
