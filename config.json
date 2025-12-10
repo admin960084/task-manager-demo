@@ -1,9 +1,10 @@
 {
-  "appName": "Task Manager",
-  "version": "1.0.0",
+  "appName": "Task Manager Pro",
+  "version": "1.1.0",
   "features": {
     "addTask": true,
     "deleteTask": true,
-    "editTask": false
-  }
+    "editTask": true
+  },
+  "theme": "dark"
 }
