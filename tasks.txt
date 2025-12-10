@@ -1,4 +1,5 @@
-1. [HIGH] Learn Git basics
-2. [MEDIUM] Practice commits
-3. [HIGH] Master branching
-4. [LOW] Explore GitHub features
+[HIGH][Work] Learn Git basics
+[MEDIUM][Personal] Practice commits
+[HIGH][Work] Master branching
+[LOW][Personal] Explore GitHub features
+[MEDIUM][Work] Review pull requests
