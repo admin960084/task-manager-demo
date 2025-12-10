@@ -13,3 +13,5 @@ A simple task management application for learning Git and GitHub.
 [PRIORITY][CATEGORY] Task description
 Example:
 [HIGH][Work] Finish the project report
+
+Issue #3
