@@ -1,9 +1,11 @@
 {
   "appName": "Task Manager",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "features": {
     "addTask": true,
     "deleteTask": true,
-    "editTask": false
-  }
+    "editTask": false,
+    "searchTask": true
+  },
+  "database": "sqlite"
 }
